@@ -8,7 +8,7 @@ I'm a Passionate :computer:  Frontend / FullStack Developer!  With over **10 yea
  + :crystal_ball: I thrive on tackling engineering challenges and take immense pride in solving them. 
  + 🚀 My expertise lies in working with **React**, a journey I've been on for more than 8 years.  
  + :closed_lock_with_key: I'm passionate about optimization techniques to make web applications load faster. Additionally, I've reported multiple security vulnerabilities as part of my pentesting hobby, contributing to safer web environments. 
- + 📚 I maintain the [puppeteer-screen-recorder](https://github.com/prasanaworld/puppeteer-screen-recorder?tab=readme-ov-file) library, which has over  <img src="https://camo.githubusercontent.com/f13caf078fed06b042cd175469b1b9be5320e46a4973ab1d69ef740cdc884f2d/68747470733a2f2f696d672e736869656c64732e696f2f6e706d2f64742f7075707065746565722d73637265656e2d7265636f72646572" vertical-align="center" /> ! 
+ + 📚 I maintain the [puppeteer-screen-recorder](https://github.com/prasanaworld/puppeteer-screen-recorder?tab=readme-ov-file) library, which has downloads of over <img src="https://img.shields.io/npm/dt/puppeteer-screen-recorder" vertical-align="center" /> ! 
  + :moneybag: If you find my work valuable, please consider sponsouring me! 🙏
 
 ### My tech stack
