@@ -25,7 +25,7 @@ Lately, I've been diving into the world of **Web3**. I'm actively learning:
 
 Let's connect and collaborate on exciting projects! ✨
 
-### GitHub Profile Trophy
+## GitHub Profile Trophy
  <p align="center"> 
    <img src="https://user-images.githubusercontent.com/6661165/91657958-61b4fd00-eb00-11ea-9def-dc7ef5367e34.png" alt="Tropy_section" /> 
 </p>   
