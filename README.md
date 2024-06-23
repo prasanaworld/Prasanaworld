@@ -1,3 +1,5 @@
+<img src="./prasana_hero_banner.gif" alt="Prasana hero banner image where he is sitting in a mediation position with a laptop infront and all the skillset around him revolving" width="100%" />
+
 ## 👋 I'm Prasana
 
 <h3>When I code, I rely on</h3>
