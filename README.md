@@ -10,7 +10,7 @@ I'm a Passionate engineer with over 10 years of experience.
 :crystal_ball: I thrive on tackling engineering challenges and take immense pride in solving them. <br/>
 🚀 My expertise lies in working with React, a journey I've been on for more than 8 years. <br/>
 :closed_lock_with_key: I'm passionate about optimization techniques to make web applications load faster. Additionally, I've reported multiple security vulnerabilities as part of my pentesting hobby, contributing to safer web environments. <br/>
-📚 I maintain the puppeteer-screen-recorder library, which has downloads of over <img src="https://img.shields.io/npm/d18m/puppeteer-screen-recorder.svg?style=plastic&label=%20" vertical-align="center" /> <br/>
+📚 I maintain the [puppeteer-screen-recorder](https://github.com/prasanaworld/puppeteer-screen-recorder) library, which has downloads of over <img src="https://img.shields.io/npm/d18m/puppeteer-screen-recorder.svg?style=plastic&label=%20" vertical-align="center" /> <br/>
 :globe_with_meridians: I've 4 years of experience building cross-browser extensions supporting Chrome, Firefox, Safari, and Edge. <br/>
 :moneybag: If you find my work valuable, please consider sponsoring me! 🙏 <br/>
 
