@@ -24,9 +24,9 @@ I'm a Passionate :computer:  Frontend / FullStack Developer!  With over **10 yea
 
 ## 🌐 Exploring Web3
 Lately, I've been diving into the world of **Web3**. I'm actively learning: <br/> <br/>
- <img alt="rust" src="https://img.shields.io/badge/-F9A03C?style=flat-square&logo=rust&logoColor=white" /> Rust <br/>
- <img alt="Solana BlockChain" src="https://img.shields.io/badge/-dd18e6?style=flat-square&logo=solana&logoColor=white" /> Solana BlockChain <br/>
- <img alt="Anchor smartcontract" src="https://camo.githubusercontent.com/93cd8f703c9e5bb6fc83b0218e438c308458d9d5ae65678a5a14127f797e243a/68747470733a2f2f7062732e7477696d672e636f6d2f6d656469612f46565556614f3958454141756c764b3f666f726d61743d706e67266e616d653d736d616c6c" width="30px" /> Anchor SmartContract  
+ <img width="25px" alt="rust" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Rust_programming_language_black_logo.svg/1920px-Rust_programming_language_black_logo.svg.png" /> Rust <br/>
+ <img width="25px" alt="Solana BlockChain" src="https://upload.wikimedia.org/wikipedia/en/b/b9/Solana_logo.png" /> Solana BlockChain <br/>
+ <img width="25px" alt="Anchor smartcontract" src="https://camo.githubusercontent.com/93cd8f703c9e5bb6fc83b0218e438c308458d9d5ae65678a5a14127f797e243a/68747470733a2f2f7062732e7477696d672e636f6d2f6d656469612f46565556614f3958454141756c764b3f666f726d61743d706e67266e616d653d736d616c6c" width="30px" /> Anchor SmartContract  
 
 Let's connect and collaborate on exciting projects! ✨
 
